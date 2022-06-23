@@ -27,3 +27,11 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/sonarlint/issuestore/index.pb
+/.idea/encodings.xml
+/src/win.txt
+/tmp/1.jpg
+/1.jpg
+/big.dat
+/tmp1.jpg
+/tmpbig.dat
