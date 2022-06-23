@@ -13,6 +13,7 @@ public class Solution {
         }
         Scanner scaner = new Scanner(file);
         Pattern pattern = Pattern.compile("\\b\\w+\\S+");
+        int res = 0;
         while (scaner.hasNextLine()){
             final String line = scaner.nextLine();
             Matcher matcher = pattern.matcher(line);
@@ -20,9 +21,10 @@ public class Solution {
             while(matcher.find()) {
                 cnt++;
             }
+            res += cnt;
             System.out.println(cnt);
         }
-        return 1;
+        return res;
         // write your code here
     }
 
