@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90c544c-9b14-459c-b526-77c8426f7721" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task4/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task5/strings.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task4.Solution">
+  <component name="RunManager" selected="Application.task5.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1.Solution" />
       <module name="module9" />
@@ -96,8 +96,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task5.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task5.Solution" />
+      <module name="module9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task5.Solution" />
         <item itemvalue="Application.task4.Solution" />
         <item itemvalue="Application.task2.Solution" />
         <item itemvalue="Application.task3.Solution" />
@@ -142,14 +156,22 @@
       <option name="project" value="LOCAL" />
       <updated>1656089094447</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dop task 4 end">
+      <created>1656090074848</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656090074848</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dop task 1 end" />
     <MESSAGE value="dop task 2 end" />
     <MESSAGE value="dop task 3 end nd fix task 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="dop task 3 end nd fix task 2" />
+    <MESSAGE value="dop task 4 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="dop task 4 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
