@@ -1,0 +1,4 @@
+Part;Federal District;2016;2017;2018;2019;2020
+Belgorod region; Central;23.2;24.4;25.9;28.34;39.0
+Bryansk region; Central;19.7;20.0;21.4;23.6;24.0
+Bryansk2 region; Central;14.7;22.0;25.4;29.6;54.0
