@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b90c544c-9b14-459c-b526-77c8426f7721" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task14/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task14/forest.txt" afterDir="false" />
+    <list default="true" id="b90c544c-9b14-459c-b526-77c8426f7721" name="Changes" comment="dop task 14 end">
+      <change afterPath="$PROJECT_DIR$/src/task15/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task15/trees.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,26 +43,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task14.Solution">
+  <component name="RunManager" selected="Application.task15.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task13.Solution" />
       <module name="module9" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task10.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task10.Solution" />
-      <module name="module9" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task15.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task15.Solution" />
+      <module name="module9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task15.Solution" />
         <item itemvalue="Application.task14.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.task12.Solution" />
         <item itemvalue="Application.task11.Solution" />
-        <item itemvalue="Application.task10.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656245909802</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="dop task 14 end">
+      <created>1656258860172</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656258860172</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,7 +250,8 @@
     <MESSAGE value="dop task 11 end" />
     <MESSAGE value="dop task 12 end" />
     <MESSAGE value="dop task 13 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="dop task 13 end" />
+    <MESSAGE value="dop task 14 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="dop task 14 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -309,14 +317,14 @@
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/task14/Solution.java</url>
-          <line>85</line>
-          <option name="timeStamp" value="79" />
+          <url>file://$PROJECT_DIR$/src/task15/Solution.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/task14/Solution.java</url>
-          <line>80</line>
-          <option name="timeStamp" value="83" />
+          <url>file://$PROJECT_DIR$/src/task15/Solution.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
