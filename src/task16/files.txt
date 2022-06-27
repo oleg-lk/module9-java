@@ -1,0 +1,7 @@
+input.txt 3000 B
+log.txt 300 B
+scratch.zip 5 MB
+some.zip 2 KB
+orc.bmp 2048 KB
+output.txt 1 KB
+image.bmp 1000 KB
